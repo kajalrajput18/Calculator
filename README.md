@@ -43,3 +43,5 @@ No installation required! Simply open the `index.html` file in any modern web br
 
 https://github.com/user-attachments/assets/47b69011-6826-4eb9-837b-cd8411196ad3
 
+## Live Demo Link
+ https://kajalrajput18.github.io/Calculator/
